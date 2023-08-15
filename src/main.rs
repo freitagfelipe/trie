@@ -1,3 +1,5 @@
+use trie;
+
 fn main() {
-    println!("Hello, world!");
+    trie::start();
 }
