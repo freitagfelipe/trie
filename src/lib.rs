@@ -1,7 +1,10 @@
 use leptos::*;
 
 mod app;
+mod colors;
+mod components;
 mod trie;
+mod views;
 
 use app::App;
 
